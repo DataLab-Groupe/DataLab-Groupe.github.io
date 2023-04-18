@@ -22,8 +22,8 @@ author: DataLab Groupe
 navbar-links:
   About Us: "aboutus"
   Blog: "blog"
-  Team: "team"
-  Projects: "projects"
+  #Team: "team"
+  #Projects: "projects"
   Crédit Agricole: "https://www.credit-agricole.com/"
 
 ################
