@@ -6,7 +6,7 @@ subtitle: The DataLab Groupe participated to Confiance.AI Days 2022
 thumbnail-img: /assets/img/confiance-ai-days-logo.png
 cover-img: /assets/img/confiance-ai-days-logo.png
 
-tags: [Responsible AI]
+tags: [Trustworthy AI]
 
 comments: true
 

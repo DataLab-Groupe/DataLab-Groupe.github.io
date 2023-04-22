@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: The Ocean Cleanup Challenge
+title: The Ocean Cleanup Challenge 2022
 subtitle: The DataLab Groupe on the podium of The Ocean Cleanup Challenge
 thumbnail-img: /assets/img/ocean_cleanup_thumb.jpg
 cover-img: /assets/img/ocean_cleanup.jpg
@@ -15,7 +15,7 @@ pinned: true
 
 
 
-**From December 5 to 9, a team of 4 Data Scientists from the DataLab Groupe (ITD) participated in an international challenge, jointly organized by the NGO The Ocean Cleanup and the companies Kili, Weights & Biases and OVHcloud. The objective is to contribute to the development of Artificial Intelligence systems to fight against plastic pollution in the marine environment. The DataLab Groupe team is on the podium among 300 other teams from companies and laboratories worldwide.**
+**From December 5th to 9th 2022, a team of 4 Data Scientists from the DataLab Groupe (ITD) participated in an international challenge, jointly organized by the NGO The Ocean Cleanup and the companies Kili, Weights & Biases and OVHcloud. The objective is to contribute to the development of Artificial Intelligence systems to fight against plastic pollution in the marine environment. The DataLab Groupe team is on the podium among 300 other teams from companies and laboratories worldwide.**
 
 Plastic pollution in the marine environment is a global threat to the health of marine species, human health, food safety, coastal tourism, etc. Indeed, **among the 350 million tons of plastic produced each year**, it is estimated that **more than 15 million tons end up in the ocean**.
 
