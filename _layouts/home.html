@@ -8,7 +8,7 @@ layout: page
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% assign max_pinned_posts = 3 %}
+  {% assign max_pinned_posts = 10 %}
   {% for post in posts %}
   {% if post.pinned %}
   <li class="post-preview">
