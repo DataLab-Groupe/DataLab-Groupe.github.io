@@ -1,6 +1,6 @@
 # install new env
-gem install bundler jekyll
-bundle update
+sudo gem install bundler jekyll
+sudo bundle update
 bundle exec jekyll serve
 
 # build locally with internal links

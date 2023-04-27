@@ -78,7 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: We are a DATA & AI team based in Paris, conducting AI research and development for Crédit Agricole, in collaboration with world-class academics.
+rss-description: We are a DATA & AI team based in Montrouge, conducting AI research and development for Crédit Agricole, in collaboration with world-class academics.
 
 ###########################
 # --- General options --- #
@@ -87,7 +87,7 @@ rss-description: We are a DATA & AI team based in Paris, conducting AI research 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
@@ -116,7 +116,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "ia,data,deep learning,document processing,machine learning"
+keywords: "ai, artificial intelligence,data ,deep learning, document processing, machine learning, generative ai, datalab groupe, datalab, datalab credit agricole"
 
 ######################################
 # --- Colours / background image --- #
@@ -141,7 +141,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+#navbar-img: "/assets/img/evergreen.jpeg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 

@@ -5,7 +5,7 @@ subtitle: "Learn more about us at Crédit Agricole's DataLab Groupe"
 
 share-title: DataLab Groupe - About us
 share-description: Learn more about us at DataLab Groupe CASA.
-# share-img:
+share-img: "/assets/img/evergreen.jpeg"
 ---
 
 # Introduction
