@@ -1,4 +1,6 @@
-.row {
-    margin-right: -100px;
-    margin-left: -100px
+@media (max-width: 1400px) {
+	.my-custom-base {
+		padding-left: 10%;
+		padding-right: 10%;
+	}
 }
