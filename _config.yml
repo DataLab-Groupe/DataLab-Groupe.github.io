@@ -125,7 +125,8 @@ keywords: "ai, artificial intelligence,data ,deep learning, document processing,
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#006A4E"
-navbar-text-col: "#82B600"
+#navbar-text-col: "#82B600"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 h1-col: "#444444"
