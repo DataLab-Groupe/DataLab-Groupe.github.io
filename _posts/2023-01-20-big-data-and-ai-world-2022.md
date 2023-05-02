@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Big Data & AI World summit 2022
+title: DataLab Groupe at the Big Data & AI World summit 2022
 subtitle: DataLab Groupe participated to the Big Data & AI World summit 2022
 thumbnail-img: /assets/img/big-data-ai-world-2022.jpeg
 cover-img: /assets/img/ia-responsable.jpg
