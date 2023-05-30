@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About us
-subtitle: "Learn more about us at Crédit Agricole's DataLab Groupe"
+#title: About us
+#subtitle: "Learn more about us at Crédit Agricole's DataLab Groupe"
 
 share-title: DataLab Groupe - About us
 share-description: Learn more about us at DataLab Groupe CASA.
-share-img: "/assets/img/evergreen.jpeg"
+cover-img: "/assets/img/fond-ca.jpg"
 ---
 
-
+# Learn more about us at DataLab Groupe CASA.
 
 
 The DataLab Groupe of Crédit Agricole serves as a cutting-edge technology hub dedicated to **DATA & AI** and their applications in the banking sector. Our primary objective is to develop **industrial** and **innovative** approaches to leverage both internal and external data, whether structured or unstructured.

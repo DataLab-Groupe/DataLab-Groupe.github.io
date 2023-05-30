@@ -681,6 +681,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading {
   text-align: center;
+  text-shadow: -20px 0 black, 0 20px black, 20px 0 black, 0 -20px black;
+}
+.intro-header .page-heading:after {
+	background: rgba(255, 255, 255, 1.0);
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -710,7 +714,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 600;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
