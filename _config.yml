@@ -24,6 +24,7 @@ navbar-links:
   Blog: "blog"
   #Team: "team"
   #Projects: "projects"
+  Papers: "papers"
   Crédit Agricole: "https://www.credit-agricole.com/"
 
 ################
@@ -267,6 +268,8 @@ collections:
       output: true
       permalink: /:collection/:name    
 
+  papers:
+    output: false
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
