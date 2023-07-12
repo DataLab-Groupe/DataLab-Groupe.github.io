@@ -6,7 +6,7 @@ link: "https://arxiv.org/abs/2010.02358"
 status: "Accepted"
 conference: "ICDAR, 2021"
 cover-img: ""
-thumbnail-img: ""
+thumbnail-img: "/assets/img/paper_visualwordgrid.png"
 authors: Mohamed Kerroumi, Othmane Sayem, Aymen Shabou
 share-title: "VisualWordGrid: Information Extraction From Scanned Documents Using A Multimodal Approach"
 share-description: "https://arxiv.org/abs/2010.02358"
