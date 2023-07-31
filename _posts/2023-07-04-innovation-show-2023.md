@@ -13,6 +13,6 @@ comments: true
 pinned: true
 ---
 
-**The DataLab Groupe has participated to Innovation Show by CA, the yearly innovation fair hosted by Credit Agricole. We presented some of our projects and members of the DataLab Groupe gave talks diving deep into what we are working on now.**
+**The DataLab Groupe has participated to the event Innovation Show by CA, the yearly innovation fair hosted by Credit Agricole. We showcased  some of our projects and gave in-depth talks about our current work.**
 
-During that event, Emeric Tonnelier and Matthieu Capron presented our projects focused on cybersecurity and how we leverage AI in order to find potential alerts and breaches. Lea Fromentin and Ghassen Bettaieb presented our latest information extraction generation with new and better models which don't need to use OCR modules. Thomas Capdevielle presented how he uses many data sources to predict where new charging points should be installed according to urban activity. We thank all the attendees for the work they presented and the interactions we had with them.
+During that event, Emeric Tonnelier and Matthieu Capron presented our cybersecurity projects and how we use AI to identify potential alerts and breaches. Lea Fromentin and Ghassen Bettaieb presented our latest information extraction generation solution. Thomas Capdevielle demonstrated how he uses multiple data sources to predict where new charging points should be installed based on urban activity. We would like to express our gratitude to all attendees for presenting their work and for the interactions we had with them.
