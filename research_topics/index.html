@@ -1,17 +1,15 @@
 ---
 layout: page
-title: News
+title: Research Interests
 hide-title: true
 
-share-title: DataLab Groupe - News
-share-description: See our news about deep learning and its most recent breakthrough.
+share-title: DataLab Groupe - Research Interests
+share-description: See our current research interests in AI
 ---
-
-{% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
+  {% for post in site.research %}
   <li class="post-preview">
     <article>
 
