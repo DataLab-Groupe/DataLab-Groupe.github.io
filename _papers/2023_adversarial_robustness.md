@@ -7,7 +7,7 @@ status: "Accepted"
 conference: "ICDAR, 2023"
 cover-img: ""
 thumbnail-img: ""
-authors: Mohamed Dhouib, Ghassen Bettaieb, Aymen Shabou
+authors: Timothée Fronteau, Arnaud Paran, Aymen Shabou
 share-title: "Evaluating Adversarial Robustness on Document Image Classification"
 share-description: "https://arxiv.org/abs/2304.12486"
 share-img: ""

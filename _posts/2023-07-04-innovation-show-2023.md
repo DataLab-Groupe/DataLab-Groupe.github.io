@@ -2,7 +2,7 @@
 layout: post
 
 title: Innovation Show By CA 2023
-subtitle: A submitted paper has been accepted in ICDAR 2021 conference
+subtitle: Innovations by the DataLab Groupe
 thumbnail-img: /assets/img/innovation-show-2023.jpg
 cover-img: /assets/img/innovation-show-2023.jpg
 
@@ -13,6 +13,6 @@ comments: true
 pinned: true
 ---
 
-**The DataLab Groupe has participated to the event Innovation Show by CA, the yearly innovation fair hosted by Credit Agricole. We showcased  some of our projects and gave in-depth talks about our current work.**
+**The DataLab Group participated in the Innovation Show by CA event, the annual innovation fair hosted by Credit Agricole. We showcased some of our projects and delivered in-depth presentations about our ongoing work.**
 
-During that event, Emeric Tonnelier and Matthieu Capron presented our cybersecurity projects and how we use AI to identify potential alerts and breaches. Lea Fromentin and Ghassen Bettaieb presented our latest information extraction generation solution. Thomas Capdevielle demonstrated how he uses multiple data sources to predict where new charging points should be installed based on urban activity. We would like to express our gratitude to all attendees for presenting their work and for the interactions we had with them.
+During the event, Emeric Tonnelier and Matthieu Capron presented our cybersecurity projects and explained how we utilize AI to detect potential alerts and breaches. Lea Fromentin and Ghassen Bettaieb showcased our latest information extraction generation solution. Thomas Capdevielle demonstrated his use of multiple data sources to predict the optimal locations for installing new charging points based on urban activity. We would like to express our gratitude to all attendees for sharing their work and engaging in valuable interactions with us.
