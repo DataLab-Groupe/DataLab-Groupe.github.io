@@ -21,7 +21,9 @@ author: DataLab Groupe
 
 navbar-links:
   About Us: "aboutus"
-  Blog: "blog"
+  News: "blog"
+  Research topics: "research_topics"
+  #Gen AI: "gen_ai"
   #Team: "team"
   #Projects: "projects"
   Papers: "papers"
@@ -269,6 +271,63 @@ collections:
       permalink: /:collection/:name    
 
   papers:
+    output: false
+
+  research:
+    output: false
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+
+kramdown:
+  input: GFM
+
+collections:
+  team_members:
+    output: false
+
+  projects:
+      output: true
+      permalink: /:collection/:name    
+
+  papers:
+    output: false
+
+  research:
     output: false
 
 # Default YAML values (more information on Jekyll's site)
