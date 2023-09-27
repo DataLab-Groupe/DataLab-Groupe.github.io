@@ -6,7 +6,7 @@ subtitle: Retrieving information from documents
 thumbnail-img: /assets/img/research.png
 cover-img: /assets/img/research.png
 
-tags: [information retrieval]
+tags: [information retrieval, question answering]
 
 comments: true
 

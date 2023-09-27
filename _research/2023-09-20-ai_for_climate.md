@@ -2,7 +2,7 @@
 layout: post
 
 title: AI for Climate
-subtitle: Leveraging AI in order to predict consequences of climate change
+subtitle: Leveraging the opportunities offered by AI for global climate change and its impact on the banking sector
 thumbnail-img: /assets/img/research.png
 cover-img: /assets/img/research.png
 

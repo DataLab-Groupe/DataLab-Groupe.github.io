@@ -1,33 +1,33 @@
 ---
 layout: page
 title: Gen AI
-subtitle: "Learn more about our works on Generative AI"
+subtitle: "Learn more about our work on Generative AI"
 
 share-title: DataLab Groupe - Gen AI
-share-description:  Learn more about our works on Generative AI
+share-description:  Learn more about our work on Generative AI
 cover-img: "/assets/img/fond-ca.jpg"
 ---
 
-# Learn more about our works on Generative AI
+# Learn more about our work on Generative AI
 
 
 ## R&D
 
-### GenIAL : generative AI Lab plateforme
+### GenIAL : generative AI Lab platform
 
-GenIAL, standing for Generative AI Lab, is an innovative platform developed by the DataLab Groupe. The platform is designed as a showcase for various use cases pertaining to text generative AI. GenIAL covers use cases in several areas such as text classification, information extraction, and more, thereby showcasing the diversity of applications where AI can be effectively employed.
+GenIAL, standing for Generative AI Lab, is an innovative platform developed by the DataLab Groupe. The platform is designed as a showcase for various use cases pertaining to text generative AI. GenIAL covers use cases in several areas such as text classification, information extraction, and more, thereby showcasing the diversity of applications where Gen AI can be effectively employed.
 
-One of the key features of GenIAL is its comparative analysis of multiple approaches. Users are given the opportunity to compare and contrast open source models vs proprietary models, optimized vs vanilla models, and default vs very advanced prompts. These features provide a unique perspective on the strengths and weaknesses of each type of approach/model, fostering a deeper understanding of Generative AI. It also emphasizes a visual approach to AI, aiming to make the technology more accessible and engaging. Instead of solely focusing on prompts and scripts, GenIAL presents AI concepts visually, aiding in comprehension and providing a more intuitive user experience.
+One of the key features of GenIAL is its comparative analysis of multiple approaches. Users are given the opportunity to compare and contrast open source models vs proprietary models, optimized vs vanilla models, and default vs very advanced prompts. These features provide a unique perspective on the strengths and weaknesses of each type of approach/model, fostering a deeper understanding of Generative AI capabilities. It also emphasizes an interactive approach with the AI models, aiming to make the technology more accessible and engaging. Instead of solely focusing on prompts and scripts, GenIAL presents AI concepts visually, aiding in comprehension and providing a more intuitive user experience.
 
-This platform is currently used by the DataLab Groupe to showcase its R&D experiments.
+This platform is currently used internally by the experts of the DataLab Groupe to showcase their R&D experiments.
 
 ### Benchmarking commercial vs opensource GenAI models
 
-The DataLab Groupe conducted a comprehensive benchmarking study comparing commercial and open-source textual generative AI models. The use cases for this research included sentiment analysis, information extraction, data anonymization, and many more. The DataLab performed the experiments using both private data (for on-premise and open-source models only) and public datasets.
+The DataLab Groupe conducted a comprehensive benchmarking study comparing commercial vs. open-source textual and generative AI vs traditional AI models (task-specific). The use cases for this research included sentiment analysis, information extraction, data anonymization, and many more. The DataLab Group performed the experiments using open source models only on private data and commercial and open source models on public data.
 
-The study's findings revealed that despite the growing interest and enthusiasm over generative AI, it generally underperformed when compared to smaller, task-specific models. This underperformance was particularly noticeable given that the generative AI models required significantly more computational power, particularly in terms of GPU resources, to operate. This added requirement presents an additional challenge when it comes to implementing these models in real-world scenarios.
+The study's findings revealed that despite the growing interest and enthusiasm over generative AI, it generally underperformed when compared to smaller but task-specific models. One should carefully consider the significant additional computational cost and poor performance according to standard machine learning metrics when contemplating such approaches. These computational requirements present a real challenge when it comes to implementing these models in real-world scenarios.
 
-However, the research also highlighted the unique advantages of generative AI models. These models proved particularly useful in scenarios where there was little to no data available, thanks to their zero-shot or few-shot learning capabilities. This allows these models to make predictions without (or with few) prior examples, which can be highly valuable in certain situations.
+However, our study also highlighted some advantages of generative AI models. These models proved particularly useful in scenarios where there was little to no data available, thanks to their zero-shot or few-shot learning capabilities. This allows to make predictions without (or with few) prior examples, which can be highly valuable in certain situations.
 
 ## Business Use cases
 
@@ -41,7 +41,7 @@ In this context, the use case of SEO content generation involved leveraging gene
 
 The DataLab Groupe conducted a use case study exploring the application of generative AI in summarizing technical and scientific papers. Given the length of some papers, reaching up to approximately 80 pages, a major feat was the significant time saving that the use of AI could offer. Several methods and long prompt engineering phases were tested to determine the most efficient and accurate approach.
 
-The study found that while the AI was able to produce syntactically correct summaries, it was not without challenges. A notable issue was the occurrence of 'hallucination' - the model would generate information that was not present in the original text, often drawing from the paper references. This highlighted the need for caution when using such models, as they can inadvertently introduce errors or misrepresentations in the summaries.
+The study found that while the AI was able to produce syntactically correct summaries, it was not without challenges. A notable issue was the occurrence of 'hallucination': the model would generate information that was not present in the original text, often drawing from the paper references. This highlighted the need for caution when using such models, as they can inadvertently introduce errors or misrepresentations in the summaries.
 
 Despite these challenges, the use of generative AI for summarizing lengthy scientific and technical papers demonstrates promising potential, with further improvements and refinements needed to mitigate hallucination and enhance accuracy.
 
@@ -49,7 +49,7 @@ Despite these challenges, the use of generative AI for summarizing lengthy scien
 
 DataLab Groupe undertook a comprehensive study on the use of generative AI in the context of information extraction from customer proof documents. This involved testing several models, both open source and commercial.
 
-Open source models were evaluated in an on-premise environment against task-specific models developed internally, such as DocParser. This comparison aimed to assess the performance of general-purpose models against those specifically designed for the task at hand.
+Open source models were evaluated in an on-premise environment against task-specific models developed internally, such as [DocParser](/papers). This comparison aimed to assess the performance of general-purpose models against those specifically designed for the task at hand.
 
 Commercial models (GPT 3.5/4) were also tested, using open-source data for benchmarking. SROIE dataset, a widely used resource in the field of information extraction, was employed for this purpose.
 
@@ -64,5 +64,3 @@ One way to try preventing hallucination is to restrict the scope of generative m
 The search uses multiple processing blocks. We limit the scope by extracting the elements which are the most alike to our query by using an embedding model. Then we feed that scope to the generative model such that it extracts only the snippets which relate to the query. Finally, we ask the generative model to create a consolidated response by using the snippets it extracted itself.
 
 One advantage is that there is no need to annotate data, a process which can be expensive and difficult. Especially in such open domains. However, one must remember that LLMs are heavy and slow at generation. Hence, a single query can take a long time to complete.
-
-We conducted that experiment on the public corpus of the AI Act the new legislation on AI. That corpus is quite complex as it consists of multiple documents and among them, many might seem to match the query semantically while being completely irrelevant and of small importance.

@@ -6,7 +6,7 @@ subtitle: Shipping AI projects in production
 thumbnail-img: /assets/img/research.png
 cover-img: /assets/img/research.png
 
-tags: [document processing]
+tags: [DataOps, MLOps, DevOps, Observability]
 
 comments: true
 
