@@ -3,8 +3,8 @@ layout: post
 
 title: Email Processing
 subtitle: Using AI to understand et automatically process emails
-thumbnail-img: /assets/img/research.png
-cover-img: /assets/img/research.png
+thumbnail-img: /assets/img/email-processing-thumbnail.webp
+cover-img: /assets/img/email-processing-cover.png
 
 tags: [emails]
 
