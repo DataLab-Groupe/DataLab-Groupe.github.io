@@ -1,17 +1,19 @@
 ---
-layout: page
-title: Gen AI
-subtitle: "Learn more about our work on Generative AI"
+layout: post
 
-share-title: DataLab Groupe - Gen AI
-share-description:  Learn more about our work on Generative AI
+title: Generative AI
+subtitle: Using generative AI in the banking sector
+thumbnail-img: /assets/img/gen-ai.jpg
 cover-img: "/assets/img/fond-ca.jpg"
+
+tags: [generative, ai, genai, LLM]
+
+comments: true
+
+pinned: true
 ---
 
-# Learn more about our work on Generative AI
-
-
-## R&D
+**Here we describe some of our recent developments around generative AI**
 
 ### GenIAL : generative AI Lab platform
 
