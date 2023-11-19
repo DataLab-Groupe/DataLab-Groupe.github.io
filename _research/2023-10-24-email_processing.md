@@ -2,7 +2,7 @@
 layout: post
 
 title: Email Processing
-subtitle: Using AI to understand et automatically process emails
+subtitle: Using AI to understand and automatically process emails
 thumbnail-img: /assets/img/email-processing-thumbnail.webp
 cover-img: /assets/img/email-processing-cover.png
 
@@ -18,7 +18,7 @@ pinned: true
  
 Email processing is a critical aspect of modern communication, especially in business environments. It involves the extraction, classification, and management of information from emails. However, the process is not as straightforward as it seems, as it presents several challenges, including content segmentation, email theme classification, response generation, and email anonymization.
 
-At the DataLab Groupe, we develop in-house solutions to address various technical and scientific challenges within the group.
+At the DataLab Group, we develop in-house solutions to address various technical and scientific challenges within the group.
 
 # Content Segmentation
 
