@@ -3,8 +3,8 @@ layout: post
 
 title: Intelligent Document Processing
 subtitle: How to process documents using AI
-thumbnail-img: /assets/img/research.png
-cover-img: /assets/img/research.png
+thumbnail-img: /assets/img/document-processing-icon.png
+cover-img: /assets/img/document-processing-background.jpg
 
 tags: [document processing, multimodal]
 
