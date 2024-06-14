@@ -6,21 +6,21 @@ subtitle: DataLab Groupe participated to the hackathon La Ferme Digitale
 thumbnail-img: /assets/img/hackathon-ferme-digitale-thumbnail.png
 cover-img: /assets/img/hackathon-ferme-digitale-cover.jpg
 
-tags: [Internships, TelecomParis]
+tags: [GAIA, Hackathon, Generative AI]
 
 comments: true
 
 pinned: true
 ---
 
-**In the context of the International Agricultural Show 2024 in Paris, the DataLab Groupe participated in the digital farm hackathon, where the goal was to use AI to build a tool aimed at helping farmers.*
+**In the context of the International Agricultural Show 2024 in Paris, the DataLab Groupe participated in the digital farm hackathon, where the goal was to use AI to build a tool aimed at helping farmers.**
 
 
 GAIA (Generative Artificial Intelligence for Agriculture) was launched during SIA’PRO, a new three-day event, from February 25 to 27, 2024, aimed at farmers and agricultural industry professionals involved in animal and plant sectors.
 Participants worked for 48 hours to present a concrete solution to a farmer's problem using the Artificial Intelligence proposed by the French company Mistral AI.
-The eight competing teams selected use cases from those expressed by farmers. Auchan, Avril, Groupama and ACTA were among those participating in the hackathon.
+The eight competing teams selected use cases from those expressed by farmers. 
+Auchan, Avril, Groupama and ACTA were among those participating in the hackathon.
 At the end of the two days of work, they were able to present the solutions they developed and the results obtained.
-CA Team GAIA Hackathon
 
 # The team
 
