@@ -1,7 +1,10 @@
 # install new env
+
+```bash
 sudo gem install bundler jekyll
 sudo bundle update
 bundle exec jekyll serve
+```
 
 # build locally with internal links
 JEKYLL_ENV=production bundle exec jekyll serve
