@@ -263,8 +263,8 @@ kramdown:
   input: GFM
 
 collections:
-  team_members:
-    output: false
+  #team_members:
+  #  output: false
 
   projects:
       output: true
@@ -317,8 +317,8 @@ kramdown:
   input: GFM
 
 collections:
-  team_members:
-    output: false
+  #team_members:
+  #  output: false
 
   projects:
       output: true
